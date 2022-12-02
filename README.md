@@ -17,3 +17,6 @@ To use this app, type into the searchbar the artist or album of your choice. The
 - https://accounts.spotify.com/api/token
 - https://api.spotify.com/v1/search?q=
 - https://api.spotify.com/v1/artists
+
+## Link 
+[Jungify](https://jungify-media-mnm.netlify.app/)
